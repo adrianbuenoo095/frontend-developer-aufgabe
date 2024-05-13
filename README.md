@@ -4,7 +4,8 @@ To get started with the frontend:
 1. Clone the repository:
    ```bash
    git clone https://github.com/adrianbuenoo095/frontend-developer-aufgabe
-   cd the-dating-site-frontend
+   cd frontend-developer-aufgabe
+Public
    ```
 2. Install the dependencies:
    ```bash
