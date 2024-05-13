@@ -8,7 +8,7 @@ To get started with the frontend:
 Public
    ```
 2. Install the dependencies:
-   ```
+   ```bash
    npm install
    ```
 3. Set the environment variables:
