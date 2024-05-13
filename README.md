@@ -1,8 +1,20 @@
-# Countries SAP
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Getting Started
+To get started with the frontend:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/adrianbuenoo095/frontend-developer-aufgabe
+   cd the-dating-site-frontend
+   ```
+2. Install the dependencies:
+   ```bash
+   npm install
+   ```
+3. Set the environment variables:
+4. Copy the contents of env.example file and create a new file called .env in the root directory. Set the necessary environment variables, such as the API endpoint URL.
+5. Start the development server:
+   ```bash
+   npm run dev
+   ```
+6. Open the application in your browser:
+The application should be running on http://localhost:3000 by default. Open your browser and navigate to that URL to view the application.
