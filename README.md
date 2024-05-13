@@ -17,4 +17,4 @@ To get started with the frontend:
    npm run dev
    ```
 6. Open the application in your browser:
-The application should be running on http://localhost:3000 by default. Open your browser and navigate to that URL to view the application.
+The application should be running on http://localhost:5173/ by default. Open your browser and navigate to that URL to view the application.
