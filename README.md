@@ -5,7 +5,6 @@ To get started with the frontend:
    ```bash
    git clone https://github.com/adrianbuenoo095/frontend-developer-aufgabe
    cd frontend-developer-aufgabe
-Public
    ```
 2. Install the dependencies:
    ```bash
